@@ -1,0 +1,10 @@
+Package: Package2
+Type: Package
+Title: Building R Packages - Package2
+Version: 0.1.0
+Author: William Munar
+Maintainer: William Munar <wdmunarl@unal.edu.co>
+Description: This package contains the default functions from R courses "Building R Packages"
+License: GPL
+Encoding: UTF-8
+LazyData: true
